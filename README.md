@@ -6,6 +6,9 @@
 
 [中文说明](README_CN.md)
 
+作者：https://icexin.com/works/
+最后一次更新看时间是2021-08-09
+
 A Go unikernel running on x86 bare metal
 
 Run Go applications on x86 bare metal, written entirely in Go (only a small amount of C and some assembly), support most features of Go (like GC, goroutine) and standard libraries, also come with a network stack that can run most `net` based libraries.
